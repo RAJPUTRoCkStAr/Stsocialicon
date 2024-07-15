@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='Streamlit_socialmedia',
+    name='Stsocialicons',
     version='0.0.1',
     packages=find_packages(),
     author='Sumit Kumar Singh',

@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+Stsocialicons/Stsocialicons.py
+Stsocialicons/__init__.py
+Stsocialicons.egg-info/PKG-INFO
+Stsocialicons.egg-info/SOURCES.txt
+Stsocialicons.egg-info/dependency_links.txt
+Stsocialicons.egg-info/top_level.txt

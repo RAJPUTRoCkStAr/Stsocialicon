@@ -86,33 +86,5 @@ class SocialMediaIcons:
         html_content += '</div>'
         st.markdown(html_content, unsafe_allow_html=True)
         return icons
-    
-def main():
-    links = [
-    "https://www.facebook.com/example",
-    "https://www.youtube.com/example",
-    "https://www.instagram.com/example",
-    "https://www.linkedin.com/example",
-    "https://www.github.com/example",
-    "https://www.x.com/example",
-    "https://www.reddit.com/example",
-    "https://www.pinterest.com/example",
-    "https://www.twitch.com/example",
-    "https://www.tumblr.com/example",
-    "https://www.discord.com/example",
-    "https://www.stackoverflow.com/example",
-    "https://www.threads.com/example",
-    "https://www.gitlab.com/example",
-    "https://www.kaggle.com/example",
-    "https://dev.to/example",
-    "https://www.medium.com/example",
-
-    ] #pass social media link here
-    sizes = ['sm','lg'] #pass for every social media you are adding
-
-    icon_generator = SocialMediaIcons(social_media_links=links, sizes=sizes).generate_icons()
-
-if __name__ == '__main__':
-    main()
 
     
