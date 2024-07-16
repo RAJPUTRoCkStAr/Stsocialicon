@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='Stsocialicon',
-    version='0.0.2',
+    version='0.0.3',
     packages=find_packages(),
     author='Sumit Kumar Singh',
     author_email='sumitsingh9441@gmail.com',
