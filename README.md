@@ -13,14 +13,14 @@
 
 ## Installation
 
-You can install Streamlit-SocialMediaIcons using pip:
+You can install Stsocialicon using pip:
 
 ```bash
-pip install Streamlit-SocialMediaIcons
+pip install Stsocialicon
 ```
 ## Code
 ```bash
-from Streamlit_socialmedia import SocialMediaIcons
+from Stsocialicon import SocialMediaIcons
 
 def main():
     links = [
