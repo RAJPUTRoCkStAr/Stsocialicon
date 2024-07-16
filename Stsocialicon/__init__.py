@@ -1,1 +1,1 @@
-from Stsocialicon import SocialMediaIcons
+from Stsocialicon.Stsocialicon import SocialMediaIcons
